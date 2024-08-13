@@ -1,7 +1,5 @@
 ## [Data Science Specialist]:
 
-:mortar_board: [Diploma of Professional Retraining "Data Science Specialist"]()
-
 | Sprint | Project Name | Project Goal | Libraries and Modules Used |
 | ------- | ------------ | ------------ | --------------------------- |
 | [01 - Exploratory Data Analysis](https://github.com/Lionl1/Data_Science/tree/main/01_Exploratory_Data_Analysis/project1.ipynb)  | Analysis of apartment sale advertisements | Data from Yandex Real Estate — an archive of apartment sale ads in St. Petersburg and surrounding areas over several years. Determine the market value of real estate objects | **`matplotlib` `pandas` `numpy`** |
@@ -14,5 +12,5 @@
 | [08 - Numerical Methods](https://github.com/Lionl1/Data_Science/tree/main/08_Numerical_Methods/project8.ipynb) | Numerical methods | Build a model to determine the price of a car. We have data on technical specifications, configurations, and prices of other cars | **`matplotlib` `numpy` `seaborn` `pandas` `scipy` `phik` `sklearn` `pipeline` `time` `catboost` `lightgbm`** |
 | [09 - Time Series](https://github.com/Lionl1/Data_Science/tree/main/09_Time_Series/project9.ipynb) | Time series forecasting | The company collected historical data on taxi orders at airports. To attract more drivers during peak hours, forecast the number of taxi orders for the next hour | **`os` `matplotlib` `numpy` `statsmodels.tsa` `pandas` `RandomizedSearchCV` `sklearn` `pipeline` `time` `TimeSeriesSplit` `DecisionTreeRegressor` `lightgbm`** |
 | [10 - Machine Learning for Texts](https://github.com/Lionl1/Data_Science/tree/main/10_Machine_Learning_for_Texts/project10.ipynb) | Machine learning for texts | The online store "WikiShop" is launching a new service. Users can now edit and add to product descriptions, like in wiki communities. A tool is needed to identify toxic comments and send them for moderation. | **`os` `matplotlib` `numpy` `nltk` `pandas` `RandomizedSearchCV` `sklearn` `pipeline` `tqdm` `wordcloud` `lightgbm`** |
-| [11 - Computer Vision: Neural Network Training Practice](https://github.com/Lionl1/Data_Science/tree/main/11_Computer_Vision_Neural_Network_Training_Practice/project11.ipynb) | Computer vision: neural network training practice |  |  |
+| [11 - Computer Vision: Neural Network Training Practice](https://github.com/Lionl1/Data_Science/tree/main/11_Computer_Vision_Neural_Network_Training_Practice/project11.ipynb) | Computer vision: neural network training practice |Neural network for age recognition by photo|`seaborn`,`keras`,`pandas`|
 | [12 - Capstone Project](https://github.com/Lionl1/Data_Science/tree/main/12_Capstone_Project/project12.ipynb) | Capstone project |  |  |
