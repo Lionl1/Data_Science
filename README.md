@@ -1,4 +1,4 @@
-## [Data Science Specialist](https://praktikum.yandex.ru/data-scientist) (January 2024 — September 2024):
+## [Data Science Specialist]:
 
 :mortar_board: [Diploma of Professional Retraining "Data Science Specialist"]()
 
